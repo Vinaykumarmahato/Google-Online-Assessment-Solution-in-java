@@ -1,45 +1,39 @@
+![Google Online Assessment Questions](path/to/your/profile_picture.jpg)
+
 # Google Online Assessment Questions
 
-![GitHub stars](https://img.shields.io/github/stars/YourUsername/YourRepo)
-![GitHub forks](https://img.shields.io/github/forks/YourUsername/YourRepo)
-![GitHub watchers](https://img.shields.io/github/watchers/YourUsername/YourRepo)
-![GitHub contributors](https://img.shields.io/github/contributors/YourUsername/YourRepo)
+[![GitHub stars](https://img.shields.io/github/stars/YourUsername/YourRepo)](https://github.com/YourUsername/YourRepo/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/YourUsername/YourRepo)](https://github.com/YourUsername/YourRepo/network/members)
+[![GitHub watchers](https://img.shields.io/github/watchers/YourUsername/YourRepo)](https://github.com/YourUsername/YourRepo/watchers)
+[![GitHub contributors](https://img.shields.io/github/contributors/YourUsername/YourRepo)](https://github.com/YourUsername/YourRepo/graphs/contributors)
 
-A curated collection of Google's Online Assessment Questions, categorized by difficulty and type. Each problem includes a description, examples, and solutions for reference.
+A curated collection of Google's Online Assessment Questions, categorized by difficulty and type. Explore problems, descriptions, and solutions for coding challenges used in Google's assessments.
 
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Questions](#questions)
-  - [New Grad](#new-grad)
-  - [Intern](#intern)
-- [Contributing](#contributing)
-- [License](#license)
-
-## Introduction
-
-Dive into the world of coding challenges used in Google's Online Assessments. This repository is a compilation of questions that cover various topics such as algorithms, data structures, and problem-solving.
-
-## Questions
+## Problem List
 
 ### New Grad
 
-- 🆕 **Min Amplitude:** [Problem Description](New%20Grad/MinAmplitude.md) | [Solution](New%20Grad/MinAmplitude_Solution.md)
-- 🆕 **Ways to Split String:** [Problem Description](New%20Grad/WaysToSplitString.md) | [Solution](New%20Grad/WaysToSplitString_Solution.md)
-- **Minimum Domino Rotations For Equal Row:** [Problem Description](New%20Grad/MinDominoRotationsForEqualRow.md) | [Solution](New%20Grad/MinDominoRotationsForEqualRow_Solution.md)
-- **Time to Type a String:** [Problem Description](New%20Grad/TimeToTypeAString.md) | [Solution](New%20Grad/TimeToTypeAString_Solution.md)
+- 🌟 **Min Amplitude:** Calculate and minimize the amplitude of an array.
+- 🌟 **Ways to Split String:** Count unique ways to split a string into prime numbers.
+- 🌈 **Minimum Domino Rotations For Equal Row:** Determine the minimum rotations needed to make rows of dominoes equal.
+- 🌈 **Time to Type a String:** Calculate the time to type a string using a keyboard.
 
 ### Intern
 
-- ⭐⭐⭐ **Maximum Time:** [Problem Description](Intern/MaximumTime.md) | [Solution](Intern/MaximumTime_Solution.md)
-- ⭐ **Min Abs Difference of Server Loads:** [Problem Description](Intern/MinAbsDifferenceOfServerLoads.md) | [Solution](Intern/MinAbsDifferenceOfServerLoads_Solution.md)
-- ⭐⭐⭐ **Most Booked Hotel Room:** [Problem Description](Intern/MostBookedHotelRoom.md) | [Solution](Intern/MostBookedHotelRoom_Solution.md)
-- ⭐ **... and more:** [Explore Intern Problems](Intern/)
-
-## Contributing
-
-Your contributions are welcome! If you have solutions or additional questions to add, please follow the [contribution guidelines](CONTRIBUTING.md).
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
+- ⭐⭐⭐ **Maximum Time:** Find the maximum time in a 24-hour format.
+- 🟡 **Min Abs Difference of Server Loads:** Minimize the absolute difference of server loads.
+- ⭐⭐⭐ **Most Booked Hotel Room:** Find the most booked hotel room based on log entries.
+- ⭐ **Minimum Domino Rotations For Equal Row:** Determine the minimum rotations needed to make rows of dominoes equal.
+- 🟡 **Time to Type a String:** Calculate the time to type a string using a keyboard.
+- 🌐 **Maximum Level Sum of a Binary Tree:** Find the maximum level sum of a binary tree.
+- 🌐 **Min Number of Chairs:** Calculate the minimum number of chairs needed for an event.
+- 🌐 **K Closest Points to Origin:** Find the K closest points to the origin in a 2D plane.
+- 🌐 **Odd Even Jump:** Determine if you can reach the end of an array using odd and even jumps.
+- 🌐 **License Key Formatting:** Format a license key string.
+- 🌐 **Unique Email Addresses:** Count the number of unique email addresses.
+- 🍇 **Fruit Into Baskets:** Maximize the number of fruits in two baskets.
+- 🍇 **Min Days to Bloom:** Calculate the minimum days needed for flowers to bloom.
+- 🍇 **Fill Matrix:** Fill a matrix with values in spiral order.
+- 🍇 **Decreasing Subsequences:** Count the number of decreasing subsequences.
+- 🍇 **Max Distance:** Find the maximum distance between two numbers.
+- 🍇 **Stores and Houses:** Determine the minimum distance between stores and houses.
