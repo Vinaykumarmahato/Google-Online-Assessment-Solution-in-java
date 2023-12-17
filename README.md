@@ -107,5 +107,31 @@ Input: "ababa" <br>
 Output: 2 <br> 
 Explanation: ab - aba, aba - ba. <br> 
 
+# Maximize Time String
+
+You are given a string that represents time in the format hh:mm. Some of the digits are blank (represented by ?). Fill in ? such that the time represented by this string is the maximum possible. Maximum time: 23:59, minimum time: 00:00. You can assume that input string is always valid.
+
+### Example 1:
+Input: "?4:5?"  <br> 
+Output: "14:59"  <br> 
+
+### Example 2:
+Input: "23:5?" <br>
+Output: "23:59" <br>
+
+### Example 3:
+Input: "2?:22" <br>
+Output: "23:22" <br>
+
+### Example 4:
+Input: "0?:??" <br>
+Output: "09:59" <br>
+
+### Example 5:
+Input: "??:??" <br>
+Output: "23:59" <br>
+
+
+
 
 
