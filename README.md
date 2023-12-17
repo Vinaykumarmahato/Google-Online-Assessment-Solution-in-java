@@ -37,3 +37,75 @@ A curated collection of Google's Online Assessment Questions, categorized by dif
 - 🍇 **Decreasing Subsequences:** Count the number of decreasing subsequences.
 - 🍇 **Max Distance:** Find the maximum distance between two numbers.
 - 🍇 **Stores and Houses:** Determine the minimum distance between stores and houses.
+
+# Min Amplitude
+
+## Question 1:
+Given an Array A, find the minimum amplitude you can get after changing up to 3 elements. Amplitude is the range of the array (basically the difference between the largest and smallest element).
+
+### Example 1:
+Input: [-1, 3, -1, 8, 5, 4] <br>
+Output: 2 <br>
+Explanation: We can change -1, -1, 8 to 3, 4, or 5. <br>
+
+### Example 2:
+
+Input: [10, 10, 3, 4, 10] <br>
+Output: 0 <br>
+Explanation: Change 3 and 4 to 10. <br>
+
+
+## Question 2:
+Given a string S, we can split S into 2 strings: S1 and S2. Return the number of ways S can be split such that the number of unique characters between S1 and S2 are the same.
+
+### Example 1:
+Input: "aaaa"   <br>
+Output: 3  <br>
+Explanation: We can get a - aaa, aa - aa, aaa - a.  <br>
+
+### Example 2:
+Input: "bac"  <br>
+Output: 0  <br>
+
+### Example 3:
+Input: "ababa"  <br>
+Output: 2  <br>
+Explanation: ab - aba, aba - ba.  <br> 
+
+# Min Amplitude & Ways to Split String
+
+## Question 1:
+Given an Array A, find the minimum amplitude you can get after changing up to 3 elements. Amplitude is the range of the array (basically the difference between the largest and smallest element).
+
+### Example 1:
+
+Input: [-1, 3, -1, 8, 5, 4]  <br> 
+Output: 2  <br> 
+Explanation: We can change -1, -1, 8 to 3, 4, or 5.  <br> 
+
+### Example 2:
+
+Input: [10, 10, 3, 4, 10]  <br>  
+Output: 0  <br> 
+Explanation: Change 3 and 4 to 10.  <br> 
+
+
+## Question 2:
+Given a string S, we can split S into 2 strings: S1 and S2. Return the number of ways S can be split such that the number of unique characters between S1 and S2 are the same.
+
+### Example 1:
+Input: "aaaa"  <br> 
+Output: 3  <br> 
+Explanation: We can get a - aaa, aa - aa, aaa - a.  <br> 
+
+### Example 2:
+Input: "bac"  <br> 
+Output: 0  <br> 
+
+### Example 3:
+Input: "ababa" <br> 
+Output: 2 <br> 
+Explanation: ab - aba, aba - ba. <br> 
+
+
+
