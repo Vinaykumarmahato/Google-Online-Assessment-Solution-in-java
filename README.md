@@ -1,4 +1,4 @@
-![Google Online Assessment Questions](path/to/your/profile_picture.jpg)
+![Google Online Assessment Questions](https://github.com/ADVindiancoder/Google-Online-Assessment-Solution-in-java/blob/main/Google%20Assesment.png)
 
 # Google Online Assessment Questions
 
