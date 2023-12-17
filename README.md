@@ -1,4 +1,4 @@
-![Google Online Assessment Questions](https://github.com/ADVindiancoder/Google-Online-Assessment-Solution-in-java/blob/main/Google%20Assesment.png)
+![Google Online Assessment logo](Google%20Assesment.png)
 
 # Google Online Assessment Questions
 
