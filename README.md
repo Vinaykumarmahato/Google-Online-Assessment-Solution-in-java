@@ -182,7 +182,7 @@ Return the minimum number of rotations so that all the values in tops are the sa
 
 ### Example 1:
 
-![Example 1 Image](insert_image_url_here)  <br>
+![Google Online Assessment logo](git.jpeg)  <br>
 
 Input: tops = [2,1,2,4,2,2], bottoms = [5,2,6,2,3,2]  <br>
 Output: 2  <br>
