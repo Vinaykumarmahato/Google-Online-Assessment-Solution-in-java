@@ -149,6 +149,27 @@ Output: <br>
 ### Explanation:
 We can distribute the processes with loads `[1, 2, 4]` to the first server and `[3, 5]` to the second one so that their total loads will be 7 and 8, respectively. The difference of their loads will be equal to 1.
 
+# Hotel Booking System
+
+Given a hotel which has 10 floors [0-9] and each floor has 26 rooms [A-Z]. You are given a sequence of rooms, where `+` suggests the room is booked, and `-` suggests the room is freed. The task is to find which room is booked the maximum number of times.
+
+## Problem Statement
+
+You may assume that the list describes a correct sequence of bookings in chronological order. That is, only free rooms can be booked, and only booked rooms can be freed. All rooms are initially free. Note that this does not mean that all rooms have to be free at the end. In case two rooms have been booked the same number of times, return the lexographically smaller room.
+
+## Assumptions
+
+- N (length of input) is an integer within the range [1, 600]. <br>
+- Each element of array A is a string consisting of three characters: "+" or "-"; a digit "0"-"9"; and uppercase English letter "A" - "Z". <br>
+- The sequence is correct. That is, every booked room was previously free, and every freed room was previously booked. <br>
+
+### Example
+
+Input: ["+1A", "+3E", "-1A", "+4F", "+1A", "-3E"] <br>
+Output: "1A" <br>
+Explanation: Room 1A has been booked 2 times. <br>
+
+
 
 
 
