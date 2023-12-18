@@ -2,10 +2,10 @@
 
 # Google Online Assessment Questions
 
-[![GitHub stars](https://img.shields.io/github/stars/YourUsername/YourRepo)](https://github.com/YourUsername/YourRepo/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/YourUsername/YourRepo)](https://github.com/YourUsername/YourRepo/network/members)
-[![GitHub watchers](https://img.shields.io/github/watchers/YourUsername/YourRepo)](https://github.com/YourUsername/YourRepo/watchers)
-[![GitHub contributors](https://img.shields.io/github/contributors/YourUsername/YourRepo)](https://github.com/YourUsername/YourRepo/graphs/contributors)
+[![GitHub stars](https://img.shields.io/github/stars/ADVindiancoder/Google-Online-Assessment-Solution-in-java)](https://github.com/ADVindiancoder/Google-Online-Assessment-Solution-in-java/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/ADVindiancoder/Google-Online-Assessment-Solution-in-java)](https://github.com/ADVindiancoder/Google-Online-Assessment-Solution-in-java/members)
+[![GitHub watchers](https://img.shields.io/github/watchers/ADVindiancoder/Google-Online-Assessment-Solution-in-java)](https://github.com/ADVindiancoder/Google-Online-Assessment-Solution-in-java/watchers)
+[![GitHub contributors](https://img.shields.io/github/contributors/ADVindiancoder/Google-Online-Assessment-Solution-in-java)](https://github.com/ADVindiancoder/Google-Online-Assessment-Solution-in-java/contributors)
 
 A curated collection of Google's Online Assessment Questions, categorized by difficulty and type. Explore problems, descriptions, and solutions for coding challenges used in Google's assessments.
 
@@ -363,6 +363,48 @@ Input: [1, 1, 1] <br>
 Output: 3 <br>
 #### Explanation:
 Because of the strictly descending order you have to split it into 3 subsequences: [1], [1], [1]
+
+
+# Maximum Binary Distance
+
+The distance between two binary strings is defined as the sum of their lengths after removing the common prefix. For example: the common prefix of `1011000` and `1011110` is `1011`, so the distance is `len("000") + len("110") = 3 + 3 = 6`.
+
+Given a list of binary strings, the task is to pick a pair that gives you the maximum distance among all possible pairs and return that distance.
+
+## Example
+
+### Example:
+
+binary_strings = ["1011000", "1011110", "1100110", "1111000"]   <br>
+max_distance = max_binary_distance(binary_strings)  <br>
+print(max_distance)  # Output: 6  <br>
+
+# Closest Stores
+
+You are given two arrays representing integer locations of stores and houses (each location in this problem is one-dimensional). For each house, find the store closest to it.
+
+Return an integer array `result` where `result[i]` should denote the location of the store closest to the i-th house. If many stores are equidistant from a particular house, choose the store with the smallest numerical location. Note that there may be multiple stores and houses at the same location.
+
+## Example
+
+### Example 1:
+houses = [5, 10, 17] <br>
+stores = [1, 5, 20, 11, 16] <br>
+result = closest_stores(houses, stores) <br>
+print(result)  # Output: [5, 11, 16] <br>
+
+### Example 2:
+houses = [2, 4, 2]  <br>
+stores = [5, 1, 2, 3]  <br>
+result = closest_stores(houses, stores)  <br>
+print(result)  # Output: [2, 3, 2]  <br>
+
+### Example 3:
+houses = [4, 8, 1, 1]  <br>
+stores = [5, 3, 1, 2, 6]  <br>
+result = closest_stores(houses, stores)  <br>
+print(result)  # Output: [3, 6, 1, 1]  <br>
+
 
 
 
