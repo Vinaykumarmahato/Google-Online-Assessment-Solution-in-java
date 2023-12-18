@@ -305,4 +305,38 @@ int minDaysBloom(int[] roses, int k, int n) { <br>
 
 
 
+# Magic Square
+
+Given a NxN matrix, fill the integers from 1 to n*n into this matrix in a way that makes the sum of each row, each column, and the two diagonals equal.
+
+## Example
+
+### Example 1:
+
+
+Input: n = 2 <br>
+Output: null <br>
+Explanation: We need to fill [1, 2, 3, 4] into a 2x2 matrix, which is not possible, so return null. <br>
+
+### Example 2:
+Input: n = 3  <br>
+Output:  <br>
+[[8, 3, 4],  <br>
+ [1, 5, 9],  <br>
+ [6, 7, 2]]  <br>
+#### Explanation: We need to fill [1, 2, 3... 9] into a 3x3 matrix. This is one way to do it.
+Each row [8, 3, 4] [1, 5, 9] [6, 7, 2] sum is 15.  <br>
+Each column [8, 1, 6] [3, 5, 7] [4, 9, 2] sum is 15.  <br>
+The two diagonals [8, 5, 2] [4, 5, 6] sum is 15.  <br>
+
+int[][] fillMatrix(int n) { <br>
+    // Implementation goes here <br>
+    // ... <br>
+    return new int[][]{}; // Placeholder <br>
+} <br>
+
+
+
+
+
 
