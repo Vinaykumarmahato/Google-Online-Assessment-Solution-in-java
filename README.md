@@ -258,3 +258,51 @@ There are five guests attending the party.   <br>
   There are now two (the 3rd and 5th) guests at the party, so we need two chairs at time 6.   <br>
 So we need at least 3 chairs.  <br>
 
+# 973. K Closest Points to Origin
+[Practice here](https://leetcode.com/problems/k-closest-points-to-origin/description/)
+
+# 975. Odd Even Jump
+[Practice here](https://leetcode.com/problems/odd-even-jump/description/)
+
+# 482. License Key Formatting
+[Practice here](https://leetcode.com/problems/license-key-formatting/description/)
+
+# 929. Unique Email Addresses
+[Practice here](https://leetcode.com/problems/unique-email-addresses/description/)
+
+# 904. Fruit Into Baskets
+[Practice here](https://leetcode.com/problems/fruit-into-baskets/description/)
+
+# Minimum Days to Get N Bouquets
+
+Given an array of roses, where `roses[i]` means rose i will bloom on day `roses[i]`. Also given an int k, which is the minimum number of adjacent bloom roses required for a bouquet, and an int n, which is the number of bouquets we need. Return the earliest day that we can get n bouquets of roses.
+
+## Example
+
+### Example:
+
+
+Input: roses = [1, 2, 4, 9, 3, 4, 1], k = 2, n = 2 <br>
+Output: 4 <br>
+#### Explanation:
+day 1: [b, n, n, n, n, n, b] <br>
+The first and the last rose bloom. <br>
+
+day 2: [b, b, n, n, n, n, b] <br>
+The second rose blooms. Here the first two bloom roses make a bouquet. <br>
+
+day 3: [b, b, n, n, b, n, b] <br>
+
+day 4: [b, b, b, n, b, b, b] <br>
+
+See Here the last three bloom roses make a bouquet, meeting the required n = 2 bouquets of bloom roses. So return day 4. <br>
+
+int minDaysBloom(int[] roses, int k, int n) { <br>
+    // Implementation goes here <br>
+    // ...
+    return -1; // Placeholder <br>
+} <br>
+
+
+
+
