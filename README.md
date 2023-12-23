@@ -2,10 +2,10 @@
 
 # Google Online Assessment Questions
 
-[![GitHub stars](https://img.shields.io/github/stars/ADVindiancoder/Google-Online-Assessment-Solution-in-java)](https://github.com/ADVindiancoder/Google-Online-Assessment-Solution-in-java/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/ADVindiancoder/Google-Online-Assessment-Solution-in-java)](https://github.com/ADVindiancoder/Google-Online-Assessment-Solution-in-java/members)
-[![GitHub watchers](https://img.shields.io/github/watchers/ADVindiancoder/Google-Online-Assessment-Solution-in-java)](https://github.com/ADVindiancoder/Google-Online-Assessment-Solution-in-java/watchers)
-[![GitHub contributors](https://img.shields.io/github/contributors/ADVindiancoder/Google-Online-Assessment-Solution-in-java)](https://github.com/ADVindiancoder/Google-Online-Assessment-Solution-in-java/contributors)
+[![GitHub stars](https://img.shields.io/github/stars/Vinaykumarmahato/Google-Online-Assessment-Solution-in-java)](https://github.com/Vinaykumarmahato/Google-Online-Assessment-Solution-in-java/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/Vinaykumarmahato/Google-Online-Assessment-Solution-in-java)](https://github.com/Vinaykumarmahato/Google-Online-Assessment-Solution-in-java/members)
+[![GitHub watchers](https://img.shields.io/github/watchers/Vinaykumarmahato/Google-Online-Assessment-Solution-in-java)](https://github.com/Vinaykumarmahato/Google-Online-Assessment-Solution-in-java/watchers)
+[![GitHub contributors](https://img.shields.io/github/contributors/Vinaykumarmahato/Google-Online-Assessment-Solution-in-java)](https://github.com/Vinaykumarmahato/Google-Online-Assessment-Solution-in-java/contributors)
 
 A curated collection of Google's Online Assessment Questions, categorized by difficulty and type. Explore problems, descriptions, and solutions for coding challenges used in Google's assessments.
 
